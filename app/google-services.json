@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "421017065538",
+    "firebase_url": "https://homepets-c234b.firebaseio.com",
+    "project_id": "homepets-c234b",
+    "storage_bucket": "homepets-c234b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421017065538:android:0a1bc32778bf1cd6",
+        "android_client_info": {
+          "package_name": "com.uninove.homepets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421017065538-i9jp4tsm91jqdnb8acig0cvhq98alhf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uninove.homepets",
+            "certificate_hash": "cb1547b25cfd6cac63effcf616076c8788ceb3c2"
+          }
+        },
+        {
+          "client_id": "421017065538-ehenvu1ve7lnved6qnajrcv1fbu2ucil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrYuN8LC5HPypvq8kjWj44XQJMbLbQ7r0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421017065538-ehenvu1ve7lnved6qnajrcv1fbu2ucil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
